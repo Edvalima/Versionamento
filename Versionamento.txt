@@ -1,3 +1,7 @@
 Primeira manipulação de codigos.
 Fim da Manipulação de codigos
+<<<<<<< HEAD
 Conclusão do codigo
+=======
+Concluindo o codigo
+>>>>>>> teste2
